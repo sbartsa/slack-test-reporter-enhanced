@@ -692,7 +692,7 @@ export const formatFailedTestSummary = (
     elements: [
       {
         type: "mrkdwn",
-        text: "<https://github.com/ctrf-io/slack-ctrf|Slack CTRF Test Reporter>",
+        text: "<https://github.com/sbartsa/slack-test-reporter-enhanced|Slack CTRF Reporter>",
       },
     ],
   });
